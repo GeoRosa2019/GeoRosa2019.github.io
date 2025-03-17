@@ -6,28 +6,28 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Systems Engineer",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/DXC-Technology.png",
     place: "DXC Technology",
     time: "(March, 2023 - present)",
     desp: "<li>Spearheaded IT system optimization, communication flows and response times reduction, boosting operational efficiency and enhancing customer satisfaction.</li> <li>Conducted regular audits and updates of web applications, ensuring high availability and adherence to the latest security protocols.</li> <li>Leveraged skills in Perl, HTML, JavaScript, and PHP to develop and refine dynamic, user-friendly web interfaces, aligning with web standards and user expectations.</li>",
   },
   {
     title: "Gameplay and AI Programmer",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/Zero.png",
     place: "Category Zero",
     time: "(September, 2022 - present)",
     desp: "<li>Developed and implemented a variety of core gameplay features, including player movement, combat mechanics, and interactive systems.</li> <li>Worked closely with designers and animators to create engaging AI interactions that enhance the gameplay experience.</li> <li>Designed and optimized gameplay logic using Blueprints and C++.</li> <li>Designed and implemented AI enemy behavior using behavior trees, state machines, and custom decision-making systems.</li>",
   },
   {
     title: "Virual Programming and game developer Instructor",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/IDTech.png",
     place: "ID Tech Camps",
     time: "(June, 2022 - March, 2023)",
     desp: "<li>Specialized in teaching Java and C++, focusing on practical applications and industry trends in the gaming industry, which provided relevant and impactful learning experiences.</li><li>Developed and conducted interactive sessions on game design and modding, fostering creativity and technical skills within a collaborative learning environment. </li><li>Communicated complex programming concepts, employing strategic communication methods that enhanced understanding and engagement among various audiences.</li>",
   },
   {
     title: "Game Camp Member",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/GameCamp.jpg",
     place: "New Orleans Xbox Game Camp",
     time: "(January - May, 2022)",
     desp: "<li>Led a game camp team as Lead Programmer for an Xbox project, directing and coordinating team efforts in developing a top-down action game using both Unity and Unreal engines, resulting in an engaging and interactive gaming experience.</li><li>Played a key role in the ongoing development and refinement of game demos, ensuring consistent innovation and adherence to industry standards.</li><li>Utilized expertise in Unity and Unreal to craft an immersive game environment for a top-down action game, contributing to user engagement and positive feedback. </li>",

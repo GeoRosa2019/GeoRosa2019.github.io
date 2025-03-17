@@ -5,30 +5,30 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Machine Learning Foundations:Linear Alebra",
+    cardImage: "assets/images/education-page/in.png",
+    moocLink: "https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction?u=2110905",
   },
   {
-    title: "Cryptography",
+    title: "Artificial Intelligence Foundations: Thinking Machines",
+    cardImage: "assets/images/education-page/in.png",
+    moocLink: "https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=2110905",
+  },
+  {
+    title: "IT Service Management Foundations: Problem Management",
+    cardImage: "assets/images/education-page/in.png",
+    moocLink: "https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=2110905",
+  },
+  {
+    title: "Learn Perl 5 By Doing It",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://dxc.udemy.com/course/perltutorial/learn/lecture/225900#overview",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
+    title: "Machine Learning for Beginners",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://dxc.udemy.com/course/machine-learning-for-absolute-beginners-level-1/learn/lecture/17900858?kw=Machine+Learning+for+be&src=sac#overview",
+  } /*,
   {
     title: "Javascript",
     cardImage: "assets/images/education-page/udacity.svg",
@@ -65,7 +65,7 @@ const moocscards = [
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink:
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-  },
+  }, */
 ];
 
 const experience = [
